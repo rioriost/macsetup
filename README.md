@@ -1,0 +1,3 @@
+# macsetup
+
+Automate macOS setup
